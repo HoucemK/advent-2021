@@ -32,7 +32,6 @@ fun main() {
             }
         return c * d
     }
-
     val input = readInput("day02")
     println(part1Day2(input))
     println(part2Day2(input))
